@@ -24,7 +24,7 @@ sct_token = ""  # Sendkey
 startSite = "SK"  # 始发站点
 endSite = "HKA"  # 目标站点
 startDate = "2022-09-05"  # 船票搜索日期
-endDate = "2022-09-05"
+endDate = "2022-09-06"
 show_available_only = True  # 只显示有票的日期
 # ==================================
 
